@@ -1,0 +1,34 @@
+Vamos analisar cada sequência:
+
+a) 1, 3, 5, 7, ___
+
+A lógica aqui é adicionar 2 a cada número.
+O próximo número seria 7 + 2 = 9.
+b) 2, 4, 8, 16, 32, 64, ___
+
+A lógica aqui é multiplicar cada número por 2.
+O próximo número seria 64 * 2 = 128.
+c) 0, 1, 4, 9, 16, 25, 36, ___
+
+A lógica aqui é elevar cada número ao quadrado.
+O próximo número seria 6^2 = 36.
+d) 4, 16, 36, 64, ___
+
+A lógica aqui é elevar cada número ao quadrado.
+O próximo número seria 8^2 = 64.
+e) 1, 1, 2, 3, 5, 8, ___
+
+A lógica aqui é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores.
+O próximo número seria 5 + 8 = 13.
+f) 2, 10, 12, 16, 17, 18, 19, ___
+
+A lógica aqui é alternar entre adicionar 8 e adicionar 2.
+O próximo número seria 19 + 8 = 27.
+Então, as respostas seriam:
+
+a) 9
+b) 128
+c) 36
+d) 64
+e) 13
+f) 27
